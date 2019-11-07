@@ -24,8 +24,8 @@
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerX.cs.cs" />
-        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/ObstaclespinX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerX.cs" />
       </list>
     </option>
   </component>
@@ -61,6 +61,8 @@
       <workItem from="1573074325145" duration="265000" />
       <workItem from="1573125748360" duration="3376000" />
       <workItem from="1573129187899" duration="6000" />
+      <workItem from="1573131078232" duration="19000" />
+      <workItem from="1573133757148" duration="200000" />
     </task>
     <servers />
   </component>
